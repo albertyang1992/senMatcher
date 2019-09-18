@@ -1,7 +1,10 @@
 # senMatcher
+
 elements extraction for Chinese
+
 中文要素抽取算法
 
+作者：Albert Yang
 
 ## 核心用法
 output<-senMatcher_general(rule_list, text_list, tokenizer="jieba")
@@ -121,6 +124,8 @@ senMatching_single是基本公式，针对单规则单文本，规则与文本�
 
 senMatching_general是多规则多文本，规则与文本是char vector
 
+## 唯一指定二维码(别
 
+363579849@qq.com
 
 
