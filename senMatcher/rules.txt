@@ -1,0 +1,2 @@
+[^等|室]/n|vn|np|car + 被盗|被偷/. = N1:obj + N2:action
+[^等|室]/n|vn|np|car + 不见|失窃|遭窃|进贼/. = N1:obj + N2:action
