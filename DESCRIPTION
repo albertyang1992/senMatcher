@@ -2,5 +2,13 @@ Package: senMatcher
 Type: Package
 Title: elements extraction
 Version: 1.0.0
-Author: Yang Jun
-
+Author@R: person("Yang","Jun",email="363579849@qq.com",role=c("aut","cre"))
+Maintainer: Yang Jun <363579849@qq.com>
+Description: elements extraction for Chinese #中文的要素抽取算法#
+Imports: 
+    jiebaRD,
+    jiebaR,
+    stringr,
+    reticulate
+Encoding: UTF-8
+LazyData: true
