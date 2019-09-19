@@ -5,10 +5,10 @@ Version: 1.0.0
 Author@R: person("Yang","Jun",email="363579849@qq.com",role=c("aut","cre"))
 Maintainer: Yang Jun <363579849@qq.com>
 Description: elements extraction for Chinese
+Depends: R(>=3.6.1)
 Imports: 
     jiebaRD,
     jiebaR,
     stringr,
     reticulate
-Encoding: UTF-8
 LazyData: true
