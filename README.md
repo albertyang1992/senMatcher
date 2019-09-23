@@ -4,7 +4,7 @@ elements extraction for Chinese
 
 中文要素抽取算法
 
-作者：Albert Yang
+作者：Albert Yang Jun
 
 ## 安装方法
 install_github("albertyang1992/senMatcher")
@@ -131,8 +131,8 @@ senMatching_single是基本公式，针对单规则单文本，规则与文本�
 
 senMatching_general是多规则多文本，规则与文本是char vector
 
-## 唯一指定二维码(别
-
-363579849@qq.com
+## 问题可咨询
+yangjun@idataway.com（工作）
+363579849@qq.com（个人）
 
 
