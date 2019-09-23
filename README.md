@@ -6,10 +6,16 @@ elements extraction for Chinese
 
 作者：Albert Yang
 
+## 安装方法
+install_github("albertyang1992/senMatcher")
+
+library(senMatcher)
+
+
 ## 核心用法
 output<-senMatcher_general(rule_list, text_list, tokenizer="jieba")
 
-rule_list以char vector形式输入规则，text_list以char vector形式输入原文，分词包默认是结巴分词
+rule_list以char vector形式输入规则，text_list以char vector形式输入原文，分词包默认是结巴分词，开源版不支持其他分词包
 
 
 ## 使用方法
