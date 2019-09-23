@@ -11,6 +11,7 @@ install_github("albertyang1992/senMatcher")
 
 library(senMatcher)
 
+依赖包：stringr, jiebaR, jiebaRD
 
 ## 核心用法
 output<-senMatcher_general(rule_list, text_list, tokenizer="jieba")
